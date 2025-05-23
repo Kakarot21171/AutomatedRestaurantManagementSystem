@@ -2,12 +2,16 @@
 This project develops a computerized system to help restaurant personnel coordinate their activities and improve their services, and for the management to track business growth and create future plans.
 
 //////////////////////////////////////////////
+
 The goal for this project is to introduce automation in privately owned restaurants, that is, small-
 to-medium sized establishments. Typical problems restaurant personnel are facing include:
 
  Coordination of their work activities
+
  Anticipating and handling periods of low/high patron traffic
+
  Recognizing trends early enough to take advantage of bestsellers or abandon the flops
+
  Lowering operating costs, and increasing efficiency/productivity and profits
 ////////////////////////////////////////////////
 
@@ -22,10 +26,15 @@ Most importantly, all of the restaurant information is organized and saved for t
 viewing and archival. The analysis will consist of by-the-day and by-the-hour breakdowns of:
 
  Revenue and revenue percentage per menu item
+
  Menu item popularity
+
  Personnel efficiency
+
  Average turnaround time (how long patrons spend in the restaurant)
+
  Average preparation time (time from when the order is placed to when it is ready)
+
 ////////////////////////////////////////////////
 
 All data is automatically collected and processed allowing management to focus on analyzing the
